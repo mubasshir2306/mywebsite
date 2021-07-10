@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-family: 'Merriweather Sans', sans-serif;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+  line-height: 3;
+}
+
+a {
+  color: #11999E;
+}
+
+.sub-heading {
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  padding-bottom: 40px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.profile {
+  padding: 30px;
+  padding-bottom: 50px;
+}
+
+.skills {
+  padding: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 30px;
+}
+
+.contact-me {
+  padding: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 175px;
+  top: 50px;
+  height: 175px;
+  width: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 200px;
+  height: 175px;
+  width: 200px;
+}
+
+.memoji {
+  margin-top: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.photography {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.credits {
+  color: #EAF6F6;
+}
+
+.footer-link {
+  margin: auto 20px auto 20px;
+  line-height: 3;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+
+}
+
+.btn {
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -o-linear-gradient(top, #66BFBF, #11999E);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   color: #EAF6F6;
+   font-family: 'Merriweather Sans', sans-serif;
+   font-size: 24px;
+   font-weight: 200;
+   padding: 16px;
+   border: solid #66BFBF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+}
+
+.contact-me {
+  padding-bottom: 75px;
+}
